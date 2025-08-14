@@ -1,4 +1,4 @@
-# AEM Block Collection - JAV Testing
+# AEM Block Collection - JAV Testing Push
 
 This project provides a foundation for starting an AEM Edge Delivery Services project. It includes many common blocks and features a project might need.
 
